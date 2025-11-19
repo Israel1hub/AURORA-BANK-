@@ -56,8 +56,8 @@ This project focuses on uncovering critical insights from Aurora Bank’s core d
 
 ## Running the Project
 1. Execute SQL Scripts
-Run the SQL scripts in the /sql folder.
-Ensure views and tables are created before loading Power BI.
+- Run the SQL scripts in the /sql folder.
+- Ensure view is created before loading Power BI.
 2. Load into Power BI
 - Open the .pbix dashboard.
 - Connect to the SQL database or import the exported data.
