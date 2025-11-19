@@ -34,7 +34,7 @@ This project focuses on uncovering critical insights from Aurora Bank’s core d
 - Credit score categories partitioning the users.
 - Failure rate in each state
 - How debt and amount moves all through the months
-- Identifying prominent error like to happen.
+- Identifying prominent error likely to happen.
 - Category of debt to income risk
 - Identifying users that are on high risk to get loan.
 
