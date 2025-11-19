@@ -17,8 +17,8 @@ This project focuses on uncovering critical insights from Aurora Bank’s core d
 - Creating view
 - Using CTE
 - Generating metrics and indicators used in Power BI
-  
-** Power BI Development** (Second Phase)
+ 
+- **Power BI Development** (Second Phase)
 - Connecting to SQL views
 - Creating DAX measures
 - Designing dashboards and analytic reports
